@@ -1,0 +1,91 @@
+
+{
+
+
+    "data":[
+       
+    {
+        "id": "14",
+        "image":"https://www.apple.com/v/watch/bc/images/watch-shared-compare/compare_s8__c2cff9ld4e2q_small_2x.jpg",
+        "name":"Apple Watch Series 8",
+        "price":"399",
+        "chip":"https://www.apple.com/v/watch/bc/images/watch-shared-compare/icons/quicklook_retina_display_s8__cg104uxfravm_large_2x.png",
+        "chip_det":"Always-On Retina display Up to 1000 nits",
+        "camera":"https://www.apple.com/v/watch/bc/images/watch-shared-compare/icons/quicklook_bo_app__bw9xoe2j7pv6_large_2x.png",
+        "camera_det":"Blood Oxygen app",
+        "cam":"https://www.apple.com/v/watch/bc/images/watch-shared-compare/icons/quicklook_ecg_app__bwi6n94crn36_large_2x.png",
+        "cam_det":"ECG app",
+        "face":"https://www.apple.com/v/watch/bc/images/watch-shared-compare/icons/quicklook_heart_rate_notifications__ch28e3ngrhyu_large_2x.png",
+        "face_det":"High and low heart rate notification",
+        "face_det1":"Irregular rhythm notification",
+        "usb":"https://www.apple.com/v/watch/bc/images/watch-shared-compare/icons/quicklook_temperature_sensing__bmgzuoi3jn6u_large_2x.png",
+        "usb_det":"Temperature sensing",
+        "usb_det1":"Cycle Trackingwith retrospective ovulation estimates",
+        "conn":"https://www.apple.com/v/watch/bc/images/watch-shared-compare/icons/quicklook_sos__d8v571l1tiwm_large_2x.png",
+        "conn_det":"Emergency SOS",
+        "conn_det1":"Intenational emergency calling",
+        "conn_det2":"Fall Detection",
+        "conn_det3":"Crash Detection",
+        "conn_det4":"-",
+        "pen":"https://www.apple.com/v/watch/bc/images/watch-shared-compare/icons/quicklook_cellular__dmef7oeaq6mq_large_2x.png",
+        "pen_det":"Celluar available",
+        "pen_det1":"Family Setup — pair multiple watches with one iPhone"
+    },
+    {
+        "id": "14",
+        "image":"https://www.apple.com/v/watch/bc/images/watch-shared-compare/compare_se__b3w7lpf3fahe_small_2x.jpg",
+        "name":"Apple Watch SE",
+        "price":"249",
+        "chip":"https://www.apple.com/v/watch/bc/images/watch-shared-compare/icons/quicklook_retina_display_se__gl04c7j7jbqu_large_2x.png",
+        "chip_det":"Retina display Up to 1000 nits",
+        "camera":"https://www.apple.com/v/watch/bc/images/watch-shared-compare/icons/quicklook_bo_app__bw9xoe2j7pv6_large_2x.png",
+        "camera_det":"Blood Oxygen app",
+        "cam":"https://www.apple.com/v/watch/bc/images/watch-shared-compare/icons/quicklook_ecg_app__bwi6n94crn36_large_2x.png",
+        "cam_det":"ECG app",
+        "face":"https://www.apple.com/v/watch/bc/images/watch-shared-compare/icons/quicklook_heart_rate_notifications__ch28e3ngrhyu_large_2x.png",
+        "face_det":"High and low heart rate notification",
+        "face_det1":"Irregular rhythm notification",
+        "usb":"https://www.apple.com/v/watch/bc/images/watch-shared-compare/icons/quicklook_temperature_sensing__bmgzuoi3jn6u_large_2x.png",
+        "usb_det":"-",
+        "usb_det1":"Cycle tracking",
+        "conn":"https://www.apple.com/v/watch/bc/images/watch-shared-compare/icons/quicklook_sos__d8v571l1tiwm_large_2x.png",
+        "conn_det":"Emergency SOS",
+        "conn_det1":"Intenational emergency calling",
+        "conn_det2":"Fall Detection",
+        "conn_det3":"Crash Detection",
+        "conn_det4":"-",
+        "pen":"https://www.apple.com/v/watch/bc/images/watch-shared-compare/icons/quicklook_cellular__dmef7oeaq6mq_large_2x.png",
+        "pen_det":"Celluar available",
+        "pen_det1":"Family Setup — pair multiple watches with one iPhone"
+    },
+    {
+        "id": "16",
+        "image":"https://www.apple.com/v/watch/bc/images/watch-shared-compare/compare_ultra__cbkn5sfvb0ya_small_2x.jpg",
+        "name":"Apple Watch Ultra",
+        "price":"799",
+        "chip":"https://www.apple.com/v/watch/bc/images/watch-shared-compare/icons/quicklook_retina_display_ultra__fy051w99y4qe_large_2x.png",
+        "chip_det":"Always-On Retina display Up to 1000 nits",
+        "camera":"https://www.apple.com/v/watch/bc/images/watch-shared-compare/icons/quicklook_bo_app__bw9xoe2j7pv6_large_2x.png",
+        "camera_det":"Blood Oxygen app",
+        "cam":"https://www.apple.com/v/watch/bc/images/watch-shared-compare/icons/quicklook_ecg_app__bwi6n94crn36_large_2x.png",
+        "cam_det":"ECG app",
+        "face":"https://www.apple.com/v/watch/bc/images/watch-shared-compare/icons/quicklook_heart_rate_notifications__ch28e3ngrhyu_large_2x.png",
+        "face_det":"High and low heart rate notification",
+        "face_det1":"Irregular rhythm notification",
+        "usb":"https://www.apple.com/v/watch/bc/images/watch-shared-compare/icons/quicklook_temperature_sensing__bmgzuoi3jn6u_large_2x.png",
+        "usb_det":"Temperature sensing",
+        "usb_det1":"Cycle Trackingwith retrospective ovulation estimates",
+        "conn":"https://www.apple.com/v/watch/bc/images/watch-shared-compare/icons/quicklook_sos__d8v571l1tiwm_large_2x.png",
+        "conn_det":"Emergency SOS",
+        "conn_det1":"Intenational emergency calling",
+        "conn_det2":"Fall Detection",
+        "conn_det3":"Crash Detection",
+        "conn_det4":"86-decibel Siren to attract attention",
+        "pen":"https://www.apple.com/v/watch/bc/images/watch-shared-compare/icons/quicklook_cellular__dmef7oeaq6mq_large_2x.png",
+        "pen_det":"Celluar",
+        "pen_det1":"Family Setup — pair multiple watches with one iPhone"
+        
+    }
+        
+    ]
+}
